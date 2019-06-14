@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46e1dcb9-ba96-4873-8af3-eec83a7e678c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework2/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework2/Task2_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework2/homework2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Task2_1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Task2_1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/homework2-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/homework2-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-Task2_1Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Task2_1Test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Task2_1Test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Task2_1Test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Task2_1Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Task2_1Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/homework2-1.0-SNAPSHOT.jar" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -145,11 +132,6 @@
             <path>
               <item name="homework2" type="b2602c69:ProjectViewProjectNode" />
               <item name="homework2" type="462c0819:PsiDirectoryNode" />
-              <item name="b" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homework2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homework2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -243,7 +225,7 @@
       <workItem from="1560247259796" duration="1354000" />
       <workItem from="1560511361019" duration="9000" />
       <workItem from="1560516203445" duration="423000" />
-      <workItem from="1560517113101" duration="1296000" />
+      <workItem from="1560517113101" duration="1764000" />
     </task>
     <servers />
   </component>
@@ -280,7 +262,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11283000" />
+    <option name="totallyTimeSpent" value="11751000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -293,7 +275,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
