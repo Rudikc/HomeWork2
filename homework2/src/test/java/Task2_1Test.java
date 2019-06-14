@@ -1,10 +1,15 @@
+import org.junit.Rule;
 import org.junit.Test;
+import org.junit.rules.ExpectedException;
 
 import java.util.ArrayList;
 
 import static org.junit.Assert.*;
 
 public class Task2_1Test {
+
+    @Rule
+    public ExpectedException exception = ExpectedException.none();
 
     @Test
     public void ShouldReturnSumOfDigits() {
@@ -26,5 +31,10 @@ public class Task2_1Test {
         for (int i = 0; i < 1; i++) {
 
         }
+    }
+    @Test
+    public void shouldBeArrayIndexOutOfBoundsException() {
+        exception.expect(ArrayIndexOutOfBoundsException.class);
+        Task2_1.exceptionThrower();
     }
 }
